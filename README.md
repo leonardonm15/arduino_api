@@ -3,4 +3,4 @@ api que vai ser utilizada futuramente para coordenar uma estação meteorológic
 
 -------------------------------------------------------------------------
 
-just somthing that i want to be used as a metereological station in the future
+just somthing that i want to use as a metereological station in the future
