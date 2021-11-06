@@ -1,6 +1,6 @@
 # arduino_api
-api que vai ser utilizada futuramente para coordenar uma estação meteorológica usando arduinos
+api de integração com arduinos
 
 -------------------------------------------------------------------------
 
-just somthing that i want to use as a metereological station in the future
+just somthing that i may use in the future
